@@ -1,0 +1,12 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "rg:diamante_corrupto": {
+      "textures": "textures/items/rg_diamante_corrupto"
+    },
+    "rg_espada_corrupta": {
+      "textures": "textures/items/rg_espada_corrupta"
+    }
+  }
+}

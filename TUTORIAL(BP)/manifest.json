@@ -1,0 +1,40 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "addon base para la codificación  by batboa",
+    "name": "armas elementales",
+    "uuid": "c025d1e4-fa44-45fa-ab73-6655b7468ba2",
+    "version": [
+      1,
+      0,
+      1
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "addon base para la codificación  by batboa",
+      "type": "data",
+      "uuid": "c5749f79-0355-44d3-86f8-66afa66ac5c7",
+      "version": [
+        1,
+        0,
+        1
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "522d87de-b7ec-4fb7-b13c-0796e56bcdf9",
+      "version": [
+        1,
+        0,
+        1
+      ]
+    }
+  ]
+}
